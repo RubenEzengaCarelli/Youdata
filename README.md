@@ -11,4 +11,26 @@
         <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </div>
-# ho
+
+---
+
+### 😶‍🌫️ Sobre mí:
+
+- 📈 Criterio metódico y anañítico para tomar desiciones
+
+- 🔎 Capacidad de encontrar y generar mejoras continuas
+
+- 🚀 Me apaciona aprender nuevas tecnologias que mejoren mi trabajo
+
+- 🧑‍💻 Actualmente estoy aprendiendo Data Warehouse, AWS Cloud y Git
+
+- 📩 Contacto: rubenezenga@gmail.com
+
+<div align = "left">
+    <h3>
+        🔨 Lenguajes y herramientas:
+    </h3>
+    <div>
+        <img src = "C:\Users\Ruben\Desktop" title="Python" alt="Python" width="40" height="40">
+    </div>
+</div>

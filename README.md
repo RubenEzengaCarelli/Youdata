@@ -16,21 +16,22 @@
 
 ### 😶‍🌫️ Sobre mí:
 
-- 📈 Criterio metódico y anañítico para tomar desiciones
+- 📈 Criterio metódico y analítico para tomar desiciones.
 
-- 🔎 Capacidad de encontrar y generar mejoras continuas
+- 🔎 Capacidad de encontrar y generar mejoras continuas.
 
-- 🚀 Me apaciona aprender nuevas tecnologias que mejoren mi trabajo
+- 🚀 Me apaciona aprender nuevas tecnologias que mejoren mi trabajo.
 
-- 🧑‍💻 Actualmente estoy aprendiendo Data Warehouse, AWS Cloud y Git
+- 🧑‍💻 Actualmente estoy aprendiendo Data Warehouse, AWS Cloud y Git.
 
 - 📩 Contacto: rubenezenga@gmail.com
 
+<img src = "C:\Users\Ruben\Desktop\piton" title="Python" alt="Python" width="40" height="40" />
 <div align = "left">
     <h3>
         🔨 Lenguajes y herramientas:
     </h3>
     <div>
-        <img src = "C:\Users\Ruben\Desktop" title="Python" alt="Python" width="40" height="40">
+        <img src = "C:\Users\Ruben\Desktop\piton" title="Python" alt="Python" width="40" height="40" />
     </div>
 </div>

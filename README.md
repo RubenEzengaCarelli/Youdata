@@ -40,8 +40,8 @@
         <img src = "https://cdn.iconscout.com/icon/free/png-512/free-postgresql-11-1175122.png?f=avif&w=256" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />
         <img src = "https://cdn.iconscout.com/icon/free/png-512/free-sqlite-282687.png?f=avif&w=256" title="SQLite" alt="SQLite" width="40" height="40" />
         <img src = "https://cdn.iconscout.com/icon/free/png-512/free-visual-studio-code-1868941-1583105.png?f=avif&w=256" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40" />
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" title="Pandas" alt="Pandas" width="40" height="40" />
-        <img src = "https://cdn-icons-png.flaticon.com/128/5968/5968350.png" title="Python" alt="Python" width="40" height="40" />
-        <img src = "https://cdn-icons-png.flaticon.com/128/5968/5968350.png" title="Python" alt="Python" width="40" height="40" />
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" title="Pandas" alt="Pandas" width="70" height="40" />
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" title="Scikit-learn" alt="Scikit-learn" width="60" height="40" />
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" title="Numpy" alt="Numpy" width="70" height="40" />
     </div>
 </div>

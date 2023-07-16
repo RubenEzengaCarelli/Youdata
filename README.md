@@ -26,10 +26,15 @@
 
 - 📩 Contacto: rubenezenga@gmail.com
 
+<br>
+
 <div align = "left">
     <h3>
         🔨 Lenguajes y herramientas:        
     </h3>
+    
+- Herramientas **ETL, procesamiento, modelado y visualización de datos, Machine Learning**:
+    
     <div>
         <img src = "https://cdn-icons-png.flaticon.com/128/5968/5968350.png" title="Python" alt="Python" width="40" height="40" />
         <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" title="Pandas" alt="Pandas" width="70" height="30" />
@@ -38,14 +43,22 @@
         <img src = "https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40" />
         <img src = "https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40" />
         <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" title="Jupyter" alt="Jupyter" width="40" height="40" />
+    </div>
+    <div>
         <img src = "https://cdn-icons-png.flaticon.com/128/732/732220.png" title="Excel" alt="Excel" width="40" height="40" />
         <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" title="PowerBI" alt="PowerBI" width="40" height="40" />
+    </div>
+- **Bases de datos y lenguajes de consulta**:
+    <div>
         <img src = "https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="SQL" alt="SQL" width="40" height="40" />
         <img src = "https://dotnetvibes.files.wordpress.com/2018/01/nosql-database.png" title="NoSQL" alt="NoSQL" width="40" height="40" />
         <img src = "https://cdn.iconscout.com/icon/free/png-512/free-mysql-21-1174941.png?f=avif&w=256" title="MySQL" alt="MySQL" width="40" height="40" />
         <img src = "https://cdn.iconscout.com/icon/free/png-512/free-postgresql-11-1175122.png?f=avif&w=256" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />
         <img src = "https://cdn.iconscout.com/icon/free/png-512/free-sqlite-282687.png?f=avif&w=256" title="SQLite" alt="SQLite" width="40" height="40" />
         <img src = "https://cdn.iconscout.com/icon/free/png-512/free-mongodb-5-1175140.png?f=avif&w=256" title="MongoDB" alt="MongoDB" width="40" height="40" />
+    </div>
+- **Entornos y herramientas Front-End**:
+    <div>
         <img src = "https://cdn.iconscout.com/icon/premium/png-512-thumb/html-2752158-2284975.png?f=avif&w=256" title="HTML5" alt="HTML5" width="40" height="40" />
         <img src = "https://cdn.iconscout.com/icon/free/png-512/free-css3-11-1175239.png?f=avif&w=256" title="CSS3" alt="CSS3" width="40" height="40" />
         <img src = "https://cdn.iconscout.com/icon/free/png-512/free-bootstrap-226077.png?f=avif&w=256" title="Bootstrap" alt="Bootstrap" width="40" height="40" />
